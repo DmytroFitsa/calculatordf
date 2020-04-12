@@ -1,0 +1,12 @@
+.display {
+    font-size: 30px;
+    text-align: right;
+}
+.calc button{
+    width: 120.5px;
+    height: 30px;
+    font-size: 20px;
+}
+.opers button{
+    width: 90px;
+}
